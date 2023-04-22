@@ -3,6 +3,7 @@
     "baseUrl": ".",
     "esModuleInterop": true,
     "exactOptionalPropertyTypes": true,
+    "importHelpers": true,
     "jsx": "react",
     "module": "commonjs",
     "moduleResolution": "node",
